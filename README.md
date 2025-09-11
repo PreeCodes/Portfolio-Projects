@@ -22,6 +22,7 @@ This repository is my space to showcase skills, share projects and track my jour
 
   - Python
   - Excel
+    - [Bike Sales Dashboard](https://github.com/PreeCodes/Portfolio-Projects/tree/main/Excel)
 
 <H2>Contacts</H2>
 
