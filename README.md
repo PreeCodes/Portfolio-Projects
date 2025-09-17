@@ -21,6 +21,7 @@ This repository is my space to showcase skills, share projects and track my jour
     - [Data Professional Survey Breakdown](https://github.com/PreeCodes/Portfolio-Projects/tree/main/Power%20BI)
 
   - Python
+    - [Movie Correlation Project](https://github.com/PreeCodes/Portfolio-Projects/tree/main/Python)
   - Excel
     - [Bike Sales Dashboard](https://github.com/PreeCodes/Portfolio-Projects/tree/main/Excel)
 
