@@ -27,8 +27,9 @@ This repository is my space to showcase skills, share projects and track my jour
 
 <H2>Contacts</H2>
 
-LinkedIn: [@SriPreethi](https://www.linkedin.com/in/sri-preethi)
-Mail: sripreethi.krishna@gmail.com
+🔗 [LinkedIn: @SriPreethi](https://www.linkedin.com/in/sri-preethi)  
+✉️ Mail: sripreethi.krishna@gmail.com
+
 
   
     
