@@ -15,8 +15,8 @@ This repository is my space to showcase skills, share projects and track my jour
 
 * Portfolio Projects
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/PreeCodes/Portfolio-Projects/blob/main/Covid%20Portfolio%20Project.sql)
-    - [Nashville Housing Data Cleaning](https://github.com/PreeCodes/Portfolio-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning.sql)
+    - [Covid 19 Data Exploration](https://github.com/PreeCodes/Portfolio-Projects/tree/main/SQL)
+    - [Nashville Housing Data Cleaning](https://github.com/PreeCodes/Portfolio-Projects/tree/main/SQL)
   - Power BI
     - [Data Professional Survey Breakdown](https://github.com/PreeCodes/Portfolio-Projects/tree/main/Power%20BI)
 
